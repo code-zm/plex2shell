@@ -1,0 +1,30 @@
+Oct 16, 2026 20:16:07.891 [140278754196280] INFO - Plex Media Server v1.43.3.10861-f1a0c6bd9 - Docker Docker Container x86_64 - build: linux-x86_64 debian - GMT 00:00
+Oct 16, 2026 20:16:07.891 [140278754196280] INFO - Linux version: 7.1.8-arch1-3, language: en-US
+Oct 16, 2026 20:16:07.891 [140278754196280] INFO - Processor: 20-core 12th Gen Intel(R) Core(TM) i7-12700KF
+Oct 16, 2026 20:16:07.891 [140278754196280] INFO - Compiler is - Clang 11.0.1 (https://plex.tv 9b997da8e5b47bdb4a9425b3a3b290be393b4b1f)
+Oct 16, 2026 20:16:07.891 [140278754196280] INFO - /usr/lib/plexmediaserver/Plex Media Server
+Oct 16, 2026 20:16:07.890 [140278756829840] DEBUG - BPQ: [Idle] -> [Starting]
+Oct 16, 2026 20:16:07.890 [140278756829840] DEBUG - FeatureManager: Using cached data for features list
+Oct 16, 2026 20:16:07.892 [140278756829840] DEBUG - MyPlex: mapping state set to 'Unknown'.
+Oct 16, 2026 20:16:07.892 [140278756829840] DEBUG - Relay: read 0 cached entries from hosts file
+Oct 16, 2026 20:16:07.892 [140278756829840] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
+Oct 16, 2026 20:16:07.908 [140278756829840] DEBUG - MyPlex: using cached data for request for https://plex.tv/api/v2/server/users/features?filterFeatures[]=00000000-0000-0000-0000-000000000001&filterFeatures[]=00000000-0000-0000-0000-000000000002&filterFeatures[]=00000000-0000-0000-0000-000000000003&filterFeatures[]=00000000-0000-0000-0000-000000000004&filterFeatures[]=00000000-0000-0000-0000-000000000005
+Oct 16, 2026 20:16:07.918 [140278756829840] DEBUG - [CERT] Subject name is /CN=*.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.plex.direct
+Oct 16, 2026 20:16:07.918 [140278756829840] DEBUG - [CERT] Installed certificate with fingerprint aa:aa:aa:aa:aa:aa:aa:aa:aa:aa:aa:aa:aa:aa:aa:aa:aa:aa:aa:aa.
+Oct 16, 2026 20:16:07.918 [140278756829840] DEBUG - [CERT/OCSP] no URL available
+Oct 16, 2026 20:16:07.918 [140278756829840] WARN - [CERT/OCSP] getCertInfo failed; skipping stapling
+Oct 16, 2026 20:16:07.918 [140278756829840] DEBUG - HttpServer: Listening on IPv6 as well as IPv4.
+Oct 16, 2026 20:16:07.918 [140278756829840] DEBUG - HttpServer: Listening on port 32400.
+Oct 16, 2026 20:16:07.919 [140278756829840] DEBUG - HttpServer: Listening on port 32401.
+Oct 16, 2026 20:16:07.919 [140278756829840] DEBUG - Running server...
+Oct 16, 2026 20:16:07.919 [140278736317240] DEBUG - HttpServer: Set up a thread pool with 2 threads.
+Oct 16, 2026 20:16:07.919 [140278756829840] INFO - Running migrations. (EPG 0)
+Oct 16, 2026 20:16:07.919 [140278756829840] DEBUG - Captured session 0.
+Oct 16, 2026 20:16:07.919 [140278756829840] DEBUG - Captured session 1.
+Oct 16, 2026 20:16:07.919 [140278756829840] DEBUG - Captured session 2.
+Oct 16, 2026 20:16:07.919 [140278756829840] DEBUG - Captured session 3.
+Oct 16, 2026 20:16:07.919 [140278756829840] DEBUG - Captured session 4.
+Oct 16, 2026 20:16:07.919 [140278756829840] DEBUG - Captured session 5.
+Oct 16, 2026 20:16:07.919 [140278756829840] DEBUG - Captured session 6.
+Oct 16, 2026 20:16:07.919 [140278756829840] DEBUG - Captured session 7.
+Oct 16, 2026 20:16:07.919 [140278756829840] DEBUG - Captured session 8.
