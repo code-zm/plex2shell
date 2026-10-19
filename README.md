@@ -2,10 +2,9 @@
 
 Unauth RCE chain for Plex Media Server < 1.43.3.10828. Fixed in 1.43.3.10861. Update ASAP.
 
-**CVSS 3.1: 10.0** `AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H`
+**CVSS 3.1: 9.8** `AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H`
 
 Write-up: **<https://zmain.info/blog/plex2shell>**
-
 
 
 ## Disclaimer
